@@ -1,0 +1,1018 @@
+[
+  {
+    "id": "dn-cau-rong-song-han",
+    "name": "Cầu Rồng Sông Hàn",
+    "url": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-cau-vang-bana",
+    "name": "Cầu Vàng Bà Nà Hills (Golden Bridge)",
+    "url": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-bana-hills-resort",
+    "name": "Quần Thể Du Lịch Sun World Ba Na Hills",
+    "url": "https://images.unsplash.com/photo-1599707367072-cd6ada2bc375?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-lang-phap-bana",
+    "name": "Làng Pháp & Hầm Rượu Debay Bà Nà",
+    "url": "https://images.unsplash.com/photo-1570789210967-2cac24afeb00?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-ban-dao-son-tra",
+    "name": "Khu Bảo Tồn Thiên Nhiên Bán Đảo Sơn Trà",
+    "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-chua-linh-ung-son-tra",
+    "name": "Chùa Linh Ứng Bãi Bụt & Tượng Phật Quan Âm 67m",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lady_Buddha_Da_Nang_2019.jpg/1280px-Lady_Buddha_Da_Nang_2019.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-dinh-ban-co",
+    "name": "Đỉnh Bàn Cờ Sơn Trà",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dinh_Ban_Co_Son_Tra_Da_Nang.jpg/1280px-Dinh_Ban_Co_Son_Tra_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-cay-da-ngan-nam",
+    "name": "Cây Đa Di Sản Ngàn Năm Sơn Trà",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cay_da_Son_Tra.jpg/1280px-Cay_da_Son_Tra.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-hai-dang-tien-sa",
+    "name": "Hải Đăng Tiên Sa Sơn Trà",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hai_dang_Tien_Sa_Da_Nang.jpg/1280px-Hai_dang_Tien_Sa_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-nha-trung-bay-hoang-sa",
+    "name": "Nhà Trưng Bày Hoàng Sa",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nha_trung_bay_Hoang_Sa_Da_Nang.jpg/1280px-Nha_trung_bay_Hoang_Sa_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-ngu-hanh-son-complex",
+    "name": "Quần Thể Danh Thắng Di Tích Quốc Gia Đặc Biệt Ngũ Hành Sơn",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ngu_Hanh_Son_Da_Nang.jpg/1280px-Ngu_Hanh_Son_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-dong-huyen-khong",
+    "name": "Động Huyền Không (Ngũ Hành Sơn)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dong_Huyen_Khong_Ngu_Hanh_Son.jpg/1280px-Dong_Huyen_Khong_Ngu_Hanh_Son.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-chua-tam-thai",
+    "name": "Chùa Tam Thai (Ngũ Hành Sơn)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chua_Tam_Thai_Ngu_Hanh_Son.jpg/1280px-Chua_Tam_Thai_Ngu_Hanh_Son.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-lang-da-non-nuoc",
+    "name": "Làng Đá Mỹ Nghệ Non Nước",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Lang_da_Non_Nuoc_Da_Nang.jpg/1280px-Lang_da_Non_Nuoc_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-bai-bien-my-khe",
+    "name": "Bãi Biển Mỹ Khê Đà Nẵng",
+    "url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-bai-bien-non-nuoc",
+    "name": "Bãi Biển Non Nước",
+    "url": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dn-ran-nam-o",
+    "name": "Rạn Nam Ô & Làng Nghề Nước Mắm Nam Ô",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ran_Nam_O_Da_Nang_green_moss.jpg/1280px-Ran_Nam_O_Da_Nang_green_moss.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-bao-tang-cham",
+    "name": "Bảo Tàng Điêu Khắc Chăm Đà Nẵng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cham_Museum_Da_Nang.jpg/1280px-Cham_Museum_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-thanh-dien-hai",
+    "name": "Di Tích Quốc Gia Đặc Biệt Thành Điện Hải & Bảo Tàng Đà Nẵng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thanh_Dien_Hai_Da_Nang.jpg/1280px-Thanh_Dien_Hai_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-bao-tang-my-thuat",
+    "name": "Bảo Tàng Mỹ Thuật Đà Nẵng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bao_tang_My_thuat_Da_Nang.jpg/1280px-Bao_tang_My_thuat_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-nha-tho-chinh-toa",
+    "name": "Nhà Thờ Chính Tòa Đà Nẵng (Nhà Thờ Con Gà)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Da_Nang_Cathedral_2019.jpg/1280px-Da_Nang_Cathedral_2019.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-cau-song-han-quay",
+    "name": "Cầu Quay Sông Hàn",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Han_River_Bridge_Da_Nang.jpg/1280px-Han_River_Bridge_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-cau-thuan-phuoc",
+    "name": "Cầu Thuận Phước",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Thuan_Phuoc_Bridge_Da_Nang.jpg/1280px-Thuan_Phuoc_Bridge_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-cau-tinh-yeu-ca-chep",
+    "name": "Cầu Tình Yêu & Tượng Cá Chép Hóa Rồng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ca_Chep_Hoa_Rong_Da_Nang.jpg/1280px-Ca_Chep_Hoa_Rong_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-cong-vien-apec",
+    "name": "Công Viên APEC & Mái Vòm Cánh Diều Bay Cao",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cong_vien_APEC_Da_Nang.jpg/1280px-Cong_vien_APEC_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-cho-han",
+    "name": "Chợ Hàn Đà Nẵng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cho_Han_Da_Nang.jpg/1280px-Cho_Han_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-cho-con",
+    "name": "Chợ Cồn (Thiên Đường Ẩm Thực Đà Nẵng)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cho_Con_Da_Nang.jpg/1280px-Cho_Con_Da_Nang.jpg",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "dn-cho-dem-helio",
+    "name": "Chợ Đêm Helio & Tổ Hợp Giải Trí Helio Center",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Helio_Night_Market_Da_Nang.jpg/1280px-Helio_Night_Market_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-kdl-nui-than-tai",
+    "name": "Công Viên Suối Khoáng Nóng Núi Thần Tài",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Nui_Than_Tai_Da_Nang.jpg/1280px-Nui_Than_Tai_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-kdl-hoa-phu-thanh",
+    "name": "Khu Du Lịch Sinh Thái Trượt Thác Hòa Phú Thành",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Hoa_Phu_Thanh_Da_Nang.jpg/1280px-Hoa_Phu_Thanh_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-dinh-lang-tuy-loan",
+    "name": "Đình Làng Cổ Túy Loan & Làng Bánh Tráng Túy Loan",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Dinh_lang_Tuy_Loan_Da_Nang.jpg/1280px-Dinh_lang_Tuy_Loan_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-lang-chieu-cam-ne",
+    "name": "Làng Dệt Chiếu Cẩm Nê",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Lang_chieu_Cam_Ne_Da_Nang.jpg/1280px-Lang_chieu_Cam_Ne_Da_Nang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dn-hai-van-quan",
+    "name": "Di Tích Quốc Gia Hải Vân Quan (\"Thiên Hạ Đệ Nhất Hùng Quan\")",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hai_Van_Quan_Gate.jpg/1280px-Hai_Van_Quan_Gate.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "qn-pho-co-hoi-an-unesco",
+    "name": "Đô Thị Cổ Hội An (Di Sản Văn Hóa Thế Giới UNESCO)",
+    "url": "https://images.unsplash.com/photo-1552832230-c0197dd311b5?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "chua-cau-hoi-an",
+    "name": "Chùa Cầu Hội An (Lai Viễn Kiều)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Chua_Cau_Hoi_An_2024.jpg/1280px-Chua_Cau_Hoi_An_2024.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "qn-thanh-dia-my-son",
+    "name": "Khu Đền Tháp Thánh Địa Mỹ Sơn (UNESCO)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg/1280px-A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "qn-cu-lao-cham-biosphere",
+    "name": "Khu Dự Trữ Sinh Quyển Thế Giới Cù Lao Chàm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cu_Lao_Cham_island.jpg/1280px-Cu_Lao_Cham_island.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "qn-lang-gom-thanh-ha",
+    "name": "Làng Gốm Truyền Thống Thanh Hà & Công Viên Đất Nung",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Thanh_Ha_Terracotta_Park.jpg/1280px-Thanh_Ha_Terracotta_Park.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thac-ban-gioc",
+    "name": "Thác Bản Giốc - Kiệt Tác Thiên Nhiên Đông Bắc",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Thac_Ban_Gioc_Cao_Bang.jpg/1280px-Thac_Ban_Gioc_Cao_Bang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "ruong-bac-thang-mu-cang-chai",
+    "name": "Danh Thắng Ruộng Bậc Thang Mù Cang Chải",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Mu_Cang_Chai_terraces.jpg/1280px-Mu_Cang_Chai_terraces.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "hang-son-doong-quang-binh",
+    "name": "Hang Sơn Đoòng - Kỳ Quan Hang Động Lớn Nhất Trái Đất",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Son_Doong_Cave_Vietnam.jpg/1280px-Son_Doong_Cave_Vietnam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "deo-ma-pi-leng-nho-que",
+    "name": "Đèo Mã Pí Lèng & Hẻm Vực Tu Sản - Dòng Sông Nho Quế",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ma_Pi_Leng_Pass_and_Nho_Que_River.jpg/1280px-Ma_Pi_Leng_Pass_and_Nho_Que_River.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "ho-ba-be-bac-kan",
+    "name": "Hồ Ba Bể - Viên Ngọc Xanh Giữa Đại Ngàn Việt Bắc",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ba_Be_Lake_Vietnam.jpg/1280px-Ba_Be_Lake_Vietnam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "danh-thang-yen-tu",
+    "name": "Quần Thể Di Tích & Danh Thắng Yên Tử",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Chua_Dong_Yen_Tu.jpg/1280px-Chua_Dong_Yen_Tu.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "bao-tang-quang-ninh",
+    "name": "Bảo Tàng & Thư Viện Quảng Ninh",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Quang_Ninh_Museum.jpg/1280px-Quang_Ninh_Museum.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dia-dao-cu-chi",
+    "name": "Khu Di Tích Lịch Sử Địa Đạo Củ Chi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Cu_Chi_tunnels_entrance.jpg/1280px-Cu_Chi_tunnels_entrance.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thap-ba-ponagar-nha-trang",
+    "name": "Quần Thể Đền Tháp Chăm Cổ Ponagar",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Po_Nagar.jpg/1280px-Po_Nagar.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-thien-mu-hue",
+    "name": "Chùa Thiên Mụ (Linh Mụ Tự) & Tháp Phước Duyên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ThienMuPagoda.jpg/1280px-ThienMuPagoda.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "lang-khai-dinh-hue",
+    "name": "Lăng Khải Định (Ứng Lăng)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Khai_Dinh_Tomb_Vietnam.jpg/1280px-Khai_Dinh_Tomb_Vietnam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-tho-duc-ba-tphcm",
+    "name": "Vương Cung Thánh Đường Đức Bà Sài Gòn & Bưu Điện Trung Tâm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Notre_Dame_Saigon_2018.jpg/1280px-Notre_Dame_Saigon_2018.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-co-binh-thuy-can-tho",
+    "name": "Nhà Cổ Bình Thủy Cần Thơ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Binh_Thuy_Ancient_House.jpg/1280px-Binh_Thuy_Ancient_House.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-cong-tu-bac-lieu",
+    "name": "Dinh Thự Công Tử Bạc Liêu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bac_Lieu_Prince_House.jpg/1280px-Bac_Lieu_Prince_House.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cho-dong-xuan-hanoi",
+    "name": "Chợ Đồng Xuân Hà Nội",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dong_Xuan_Market_Hanoi.jpg/1280px-Dong_Xuan_Market_Hanoi.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cho-dong-ba-hue",
+    "name": "Chợ Đông Ba Huế",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Dong_Ba_Market_Hue.jpg/1280px-Dong_Ba_Market_Hue.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dienbien-bao-tang-chien-thang",
+    "name": "Bảo Tàng Chiến Thắng Lịch Sử Điện Biên Phủ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dien_Bien_Phu_Museum.jpg/1280px-Dien_Bien_Phu_Museum.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-tu-hoa-lo",
+    "name": "Di Tích Lịch Sử Nhà Tù Hỏa Lò (Maison Centrale)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Hoa_Lo_Prison_Hanoi.jpg/1280px-Hoa_Lo_Prison_Hanoi.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "hoang-thanh-thang-long",
+    "name": "Hoàng Thành Thăng Long - Trung Tâm Quyền Lực Ngàn Năm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Doan_Mon_Imperial_Citadel_of_Thang_Long.jpg/1280px-Doan_Mon_Imperial_Citadel_of_Thang_Long.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "lang-co-duong-lam",
+    "name": "Làng Cổ Đường Lâm - Miền Đất Hai Vua",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Duong_Lam_ancient_village_gate.jpg/1280px-Duong_Lam_ancient_village_gate.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dinh-iii-bao-dai-da-lat",
+    "name": "Biệt Điện Dinh III Bảo Đại - Dinh Thự Mùa Hè Của Vị Hoàng Đế Cuối Cùng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dinh_3_Bao_Dai_Da_Lat.jpg/1280px-Dinh_3_Bao_Dai_Da_Lat.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "laichau-deo-o-quy-ho",
+    "name": "Đèo Ô Quy Hồ (Cổng Trời Lai Châu)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/O_Quy_Ho_Pass.jpg/1280px-O_Quy_Ho_Pass.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thanhhoa-khu-du-lich-pu-luong",
+    "name": "Khu Bảo Tồn Thiên Nhiên Pù Luông",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Pu_Luong_Nature_Reserve.jpg/1280px-Pu_Luong_Nature_Reserve.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "gialai-bien-ho-pleiku",
+    "name": "Biển Hồ T’Nưng Pleiku",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bien_Ho_Pleiku.jpg/1280px-Bien_Ho_Pleiku.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "daklak-ho-lak-buon-jun",
+    "name": "Hồ Lắk & Buôn Jun Truyền Thống",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lak_Lake_Dak_Lak.jpg/1280px-Lak_Lake_Dak_Lak.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "vinhlong-lang-gom-mang-thit",
+    "name": "Vương Quốc Đỏ Lò Gạch Gốm Mang Thít",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mang_Thit_brick_kilns.jpg/1280px-Mang_Thit_brick_kilns.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dai-noi-hue",
+    "name": "Đại Nội Huế (Hoàng Thành & Tử Cấm Thành)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/C%E1%BB%95ng_Ng%E1%BB%8D_M%C3%B4n_-_Hu%E1%BA%BF.jpg/1280px-C%E1%BB%95ng_Ng%E1%BB%8D_M%C3%B4n_-_Hu%E1%BA%BF.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "van-mieu-quoc-tu-giam",
+    "name": "Văn Miếu - Quốc Tử Giám Hà Nội",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hanoi_Temple_of_Literature.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "trang-an-ninh-binh",
+    "name": "Quần thể Danh thắng Tràng An & Cố đô Hoa Lư",
+    "url": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "dinh-doc-lap",
+    "name": "Dinh Độc Lập (Hội trường Thống Nhất)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20190923_Independence_Palace-10.jpg/1280px-20190923_Independence_Palace-10.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "vinh-ha-long",
+    "name": "Vịnh Hạ Long & Quần đảo Cát Bà",
+    "url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "phong-nha-ke-bang",
+    "name": "Vườn Quốc Gia Phong Nha - Kẻ Bàng & Hang Sơn Đoòng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Phongnhacave.jpg",
+    "status": 200,
+    "content_type": "image/jpeg",
+    "error": null
+  },
+  {
+    "id": "chua-bai-dinh",
+    "name": "Quần thể Tâm linh Chùa Bái Đính",
+    "url": "https://images.unsplash.com/photo-1598977123418-45f04b01d4ec?auto=format&fit=crop&w=1200&q=80",
+    "status": 404,
+    "content_type": null,
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "thap-ba-ponagar",
+    "name": "Quần thể Tháp Bà Ponagar Nha Trang",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Po_Nagar.jpg/1280px-Po_Nagar.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "fansipan-sapa",
+    "name": "Đỉnh Fansipan - Mái Nhà Đông Dương & Thị Trấn Sapa",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Amit%C4%81bha_statue_on_Fansipan_1.jpg/1280px-Amit%C4%81bha_statue_on_Fansipan_1.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cho-ben-thanh",
+    "name": "Chợ Bến Thành - Biểu Tượng Văn Hóa Sài Gòn",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ben_Thanh_Market_Saigon.jpg/1280px-Ben_Thanh_Market_Saigon.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nui-ba-den",
+    "name": "Quần thể Tâm linh Núi Bà Đen - Nóc Nhà Nam Bộ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Nui_Ba_Den_Tay_Ninh.jpg/1280px-Nui_Ba_Den_Tay_Ninh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-huong",
+    "name": "Quần thể Danh thắng Hương Sơn (Chùa Hương)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Chua_Huong_Huong_Son.jpg/1280px-Chua_Huong_Huong_Son.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "mui-ne-poshanu",
+    "name": "Danh thắng Mũi Né & Tháp Chăm Poshanu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Thap_Poshanu_Phan_Thiet.jpg/1280px-Thap_Poshanu_Phan_Thiet.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "phu-quoc-dinh-cau",
+    "name": "Đảo Ngọc Phú Quốc & Di tích Dinh Cậu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Dinh_Cau_Phu_Quoc.jpg/1280px-Dinh_Cau_Phu_Quoc.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-tu-son-la",
+    "name": "Di tích Lịch sử Quốc gia Đặc biệt Nhà tù Sơn La",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nha_tu_Son_La_cay_dao_To_Hieu.jpg/1280px-Nha_tu_Son_La_cay_dao_To_Hieu.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "moc-chau-son-la",
+    "name": "Khu Du lịch Quốc gia Cao nguyên Mộc Châu & Đồi Chè Trái Tim",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Doi_che_trai_tim_Moc_Chau.jpg/1280px-Doi_che_trai_tim_Moc_Chau.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "ho-hoan-kiem-den-ngoc-son",
+    "name": "Hồ Hoàn Kiếm, Tháp Rùa & Quần Thể Đền Ngọc Sơn",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hoan_Kiem_Lake_Hanoi.jpg/1280px-Hoan_Kiem_Lake_Hanoi.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-mot-cot-hanoi",
+    "name": "Chùa Một Cột (Diên Hựu Tự) - Bông Sen Ngàn Năm Giữa Lòng Thủ Đô",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/One_Pillar_Pagoda_Hanoi.jpg/1280px-One_Pillar_Pagoda_Hanoi.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "lang-gom-bat-trang",
+    "name": "Làng Nghề Gốm Sứ Bát Tràng Bảy Trăm Năm Tuổi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bat_Trang_Ceramics_Museum.jpg/1280px-Bat_Trang_Ceramics_Museum.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dao-co-to-quang-ninh",
+    "name": "Quần Đảo Cô Tô & Bãi Đá Móng Rồng - Hòn Ngọc Cực Đông Bắc",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Co_To_island_Quang_Ninh.jpg/1280px-Co_To_island_Quang_Ninh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-tam-chuc-ha-nam",
+    "name": "Quần Thể Danh Thắng Tâm Linh Tam Chúc - Ngôi Chùa Lớn Nhất Thế Giới",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chua_Tam_Chuc_Ha_Nam.jpg/1280px-Chua_Tam_Chuc_Ha_Nam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "den-tran-nam-dinh",
+    "name": "Khu Di Tích Lịch Sử Đền Trần & Lễ Khai Ấn Đầu Xuân",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Den_Tran_Nam_Dinh.jpg/1280px-Den_Tran_Nam_Dinh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-tho-da-phat-diem",
+    "name": "Quần Thể Nhà Thờ Đá Phát Diệm - Tuyệt Tác Giao Thoa Đông Tây",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Phat_Diem_Cathedral_Ninh_Binh.jpg/1280px-Phat_Diem_Cathedral_Ninh_Binh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cho-phien-bac-ha",
+    "name": "Chợ Phiên Bắc Hà - Sắc Màu Văn Hóa Vùng Cao Lớn Nhất Tây Bắc",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bac_Ha_Sunday_Market.jpg/1280px-Bac_Ha_Sunday_Market.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cot-co-lung-cu",
+    "name": "Cột Cờ Quốc Gia Lũng Cú - Điểm Cực Bắc Thiêng Liêng Tổ Quốc",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Lung_Cu_Flag_Tower.jpg/1280px-Lung_Cu_Flag_Tower.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "khu-di-tich-tan-trao-tuyen-quang",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Tân Trào - Thủ Đô Kháng Chiến",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cay_da_Tan_Trao_Tuyen_Quang.jpg/1280px-Cay_da_Tan_Trao_Tuyen_Quang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "den-hung-phu-tho",
+    "name": "Khu Di Tích Lịch Sử Đền Hùng - Cội Nguồn Dân Tộc Việt Nam",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Den_Hung_Phu_Tho.jpg/1280px-Den_Hung_Phu_Tho.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thung-lung-mai-chau-hoa-binh",
+    "name": "Thung Lũng Mai Châu & Bản Lác - Không Gian Văn Hóa Người Thái",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mai_Chau_valley_Hoa_Binh.jpg/1280px-Mai_Chau_valley_Hoa_Binh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-but-thap-bac-ninh",
+    "name": "Chùa Bút Tháp (Ninh Phúc Tự) - Tuyệt Tác Điêu Khắc Phật Bà Nghìn Mắt Nghìn Tay",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Thap_Bao_Nghiem_Chua_But_Thap.jpg/1280px-Thap_Bao_Nghiem_Chua_But_Thap.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-vinh-nghiem-bac-giang",
+    "name": "Chùa Vĩnh Nghiêm (Chùa Đức La) - Trường Đại Học Phật Giáo Đầu Tiên & Mộc Bản UNESCO",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Chua_Vinh_Nghiem_Bac_Giang.jpg/1280px-Chua_Vinh_Nghiem_Bac_Giang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "khu-di-tich-kim-lien-nam-dan",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Kim Liên - Quê Hương Bác Hồ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lang_Sen_Que_Bac_Kim_Lien.jpg/1280px-Lang_Sen_Que_Bac_Kim_Lien.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nga-ba-dong-loc-ha-tinh",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Ngã Ba Đồng Lộc - Khúc Tráng Ca Bất Tử",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Tuong_niem_Nga_Ba_Dong_Loc.jpg/1280px-Tuong_niem_Nga_Ba_Dong_Loc.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thanh-co-quang-tri",
+    "name": "Di Tích Quốc Gia Đặc Biệt Thành Cổ Quảng Trị - Đài Tưởng Niệm Máu Và Hoa",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Thanh_Co_Quang_Tri.jpg/1280px-Thanh_Co_Quang_Tri.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "doi-bo-hien-luong-ben-hai",
+    "name": "Di Tích Đôi Bờ Hiền Lương - Sông Bến Hải & Vĩ Tuyến 17",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cau_Hien_Luong_Song_Ben_Hai.jpg/1280px-Cau_Hien_Luong_Song_Ben_Hai.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thap-po-klong-garai-ninh-thuan",
+    "name": "Quần Thể Tháp Po Klong Garai - Đỉnh Cao Nghệ Thuật Kiến Trúc Tháp Chăm",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Po_Klong_Garai_tower.jpg/1280px-Po_Klong_Garai_tower.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thac-datanla-da-lat",
+    "name": "Thác Datanla & Thung Lũng Rừng Nguyên Sinh Đà Lạt",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Datanla_waterfall_Da_Lat.jpg/1280px-Datanla_waterfall_Da_Lat.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "doi-cat-trang-bau-trang-binh-thuan",
+    "name": "Bàu Trắng & Đồi Cát Trinh Nữ - \"Tiểu Sa Mạc Sahara\" Bên Hồ Sen Mênh Mông",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bau_Trang_Binh_Thuan.jpg/1280px-Bau_Trang_Binh_Thuan.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "nha-tu-con-dao-vung-tau",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Nhà Tù Côn Đảo - \"Địa Ngục Trần Gian\"",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Nha_tu_Con_Dao_chuong_cop.jpg/1280px-Nha_tu_Con_Dao_chuong_cop.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "tuong-chua-kito-vung-tau",
+    "name": "Tượng Chúa Kytô Vua Núi Nhỏ Vũng Tàu - Tượng Chúa Lớn Nhất Châu Á",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Christ_the_King_Vung_Tau.jpg/1280px-Christ_the_King_Vung_Tau.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "toa-thanh-cao-dai-tay-ninh",
+    "name": "Tòa Thánh Cao Đài Tây Ninh - Trung Tâm Tôn Giáo Dung Hợp Độc Nhất",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Cao_Dai_Holy_See_Tay_Ninh.jpg/1280px-Cao_Dai_Holy_See_Tay_Ninh.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "lang-noi-tan-lap-long-an",
+    "name": "Khu Du Lịch Sinh Thái Làng Nổi Tân Lập - Con Đường Xuyên Rừng Tràm Cổ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Lang_noi_Tan_Lap_Long_An.jpg/1280px-Lang_noi_Tan_Lap_Long_An.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "cho-noi-cai-rang-can-tho",
+    "name": "Chợ Nổi Cái Răng - Độc Đáo Văn Hóa Thương Hồ Sông Nước Tây Đô",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Cai_Rang_floating_market.jpg/1280px-Cai_Rang_floating_market.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-doi-soc-trang",
+    "name": "Chùa Dơi (Chùa Mã Tộc / Wat Mahatup) - Kỳ Bí Ngôi Chùa Khmer Cổ Tích",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Chua_Doi_Soc_Trang.jpg/1280px-Chua_Doi_Soc_Trang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "vuon-quoc-gia-tram-chim",
+    "name": "Vườn Quốc Gia Tràm Chim - Giang Sơn Của Sếu Đầu Đỏ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Tram_Chim_National_Park.jpg/1280px-Tram_Chim_National_Park.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "chua-vinh-trang-my-tho",
+    "name": "Chùa Vĩnh Tràng - Đệ Nhất Cổ Tự Tiền Giang Pha Trộn Kiến Trúc Á Âu",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Chua_Vinh_Trang_Tien_Giang.jpg/1280px-Chua_Vinh_Trang_Tien_Giang.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "lang-hoa-sa-dec-dong-thap",
+    "name": "Làng Hoa Sa Đéc - Thủ Phủ Hoa Kiểng Trăm Năm Xứ Nam Bộ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Lang_hoa_Sa_Dec.jpg/1280px-Lang_hoa_Sa_Dec.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "mieu-ba-chua-xu-nui-sam",
+    "name": "Miếu Bà Chúa Xứ Núi Sam Châu Đốc - Trung Tâm Tín Ngưỡng Linh Thiêng Nam Bộ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Mieu_Ba_Chua_Xu_Nui_Sam.jpg/1280px-Mieu_Ba_Chua_Xu_Nui_Sam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "rung-tram-tra-su-an-giang",
+    "name": "Khu Rừng Tràm Trà Sư - Bức Tranh Thảm Bèo Xanh Mướt Mùa Nước Nổi",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tra_Su_cajuput_forest.jpg/1280px-Tra_Su_cajuput_forest.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "quan-dao-nam-du-kien-giang",
+    "name": "Quần Đảo Nam Du - Quần Đảo Thiên Đường Hoang Sơ Biển Tây",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nam_Du_Islands.jpg/1280px-Nam_Du_Islands.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dat-mui-ca-mau-gps0001",
+    "name": "Khu Du Lịch Quốc Gia Mũi Cà Mau & Cột Mốc Tọa Độ GPS 0001",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Mui_Ca_Mau_Cot_Moc_GPS0001.jpg/1280px-Mui_Ca_Mau_Cot_Moc_GPS0001.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "khu-luu-niem-cao-van-lau-bac-lieu",
+    "name": "Khu Lưu Niệm Nhạc Sĩ Cao Văn Lầu & Nghệ Thuật Đờn Ca Tài Tử Nam Bộ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Khu_luu_niem_Cao_Van_Lau.jpg/1280px-Khu_luu_niem_Cao_Van_Lau.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "laichau-ban-si-thau-chai",
+    "name": "Bản Du Lịch Cộng Đồng Sì Thâu Chải",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Si_Thau_Chai_Lai_Chau.jpg/1280px-Si_Thau_Chai_Lai_Chau.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dienbien-ham-de-castries",
+    "name": "Sở Chỉ Huy Tập Đoàn Cứ Điểm Điện Biên Phủ (Hầm Đờ Cát)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ham_De_Castries_Dien_Bien_Phu.jpg/1280px-Ham_De_Castries_Dien_Bien_Phu.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "langson-dong-tam-thanh-nhi-thanh",
+    "name": "Quần Thể Di Tích Chùa Động Tam Thanh & Động Nhị Thanh",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dong_Tam_Thanh_Lang_Son.jpg/1280px-Dong_Tam_Thanh_Lang_Son.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "langson-ai-chi-lang",
+    "name": "Khu Di Tích Lịch Sử Ải Chi Lăng",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ai_Chi_Lang_Lang_Son.jpg/1280px-Ai_Chi_Lang_Lang_Son.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "hungyen-pho-hien-chua-chuong",
+    "name": "Quần Thể Di Tích Phố Hiến & Chùa Chuông",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Chua_Chuong_Pho_Hien_Hung_Yen.jpg/1280px-Chua_Chuong_Pho_Hien_Hung_Yen.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "haiphong-quan-dao-cat-ba",
+    "name": "Quần Đảo Cát Bà & Vịnh Lan Hạ",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lan_Ha_Bay_Cat_Ba.jpg/1280px-Lan_Ha_Bay_Cat_Ba.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "haiphong-bach-dang-giang",
+    "name": "Khu Di Tích Lịch Sử Danh Thắng Bạch Đằng Giang",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Bach_Dang_Giang_Hai_Phong.jpg/1280px-Bach_Dang_Giang_Hai_Phong.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "thanhhoa-thanh-nha-ho",
+    "name": "Thành Nhà Hồ (Tây Đô)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Thanh_Nha_Ho_cong_nam.jpg/1280px-Thanh_Nha_Ho_cong_nam.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "quangngai-dao-ly-son",
+    "name": "Quần Đảo Núi Lửa Lý Sơn (Cù Lao Ré)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Dao_Ly_Son_cong_To_Vo.jpg/1280px-Dao_Ly_Son_cong_To_Vo.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "daklak-bao-tang-the-gioi-ca-phe",
+    "name": "Bảo Tàng Thế Giới Cà Phê Buôn Ma Thuột",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bao_tang_the_gioi_ca_phe.jpg/1280px-Bao_tang_the_gioi_ca_phe.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "dongnai-vuon-quoc-gia-cat-tien",
+    "name": "Vườn Quốc Gia Cát Tiên",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Cat_Tien_National_Park.jpg/1280px-Cat_Tien_National_Park.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  },
+  {
+    "id": "bentre-con-phung-dao-dua",
+    "name": "Khu Du Lịch Cồn Phụng & Di Tích Đạo Dừa Bến Tre",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Con_Phung_Ben_Tre.jpg/1280px-Con_Phung_Ben_Tre.jpg",
+    "status": 429,
+    "content_type": null,
+    "error": "HTTP Error 429: Your bot is making too many requests. Please reduce your request rate or contact bot-traffic@wikimedia.org (f263c81)"
+  }
+]

@@ -1,0 +1,1108 @@
+[
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "dai-noi-hue",
+    "name": "Đại Nội Huế (Hoàng Thành & Tử Cấm Thành)",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Meridian_Gate%2C_Hue_%28I%29.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "van-mieu-quoc-tu-giam",
+    "name": "Văn Miếu - Quốc Tử Giám Hà Nội",
+    "province": "Hà Nội",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/31/Hanoi_Temple_of_Literature.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "pho-co-hoi-an",
+    "name": "Đô thị Cổ Hội An (Phố Cổ Hội An)",
+    "province": "Quảng Nam",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/PhoCoHoiAn.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "trang-an-ninh-binh",
+    "name": "Quần thể Danh thắng Tràng An & Cố đô Hoa Lư",
+    "province": "Ninh Bình",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Muaxuantamcoc.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "chua-thien-mu",
+    "name": "Chùa Thiên Mụ (Linh Mụ Tự)",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/ThienMuPagoda.jpg/1280px-ThienMuPagoda.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "dinh-doc-lap",
+    "name": "Dinh Độc Lập (Hội trường Thống Nhất)",
+    "province": "TP. Hồ Chí Minh",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/20190923_Independence_Palace-10.jpg/1280px-20190923_Independence_Palace-10.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "thanh-dia-my-son",
+    "name": "Thánh địa Mỹ Sơn",
+    "province": "Quảng Nam",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg/1280px-A_far_view_of_the_ruins_at_My_Son_%2830992152933%29.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "vinh-ha-long",
+    "name": "Vịnh Hạ Long & Quần đảo Cát Bà",
+    "province": "Quảng Ninh",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/1280px-Ha_Long_Bay_in_2019.jpg"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "phong-nha-ke-bang",
+    "name": "Vườn Quốc Gia Phong Nha - Kẻ Bàng & Hang Sơn Đoòng",
+    "province": "Quảng Bình",
+    "imageUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "chua-bai-dinh",
+    "name": "Quần thể Tâm linh Chùa Bái Đính",
+    "province": "Ninh Bình",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bbaa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "thap-ba-ponagar",
+    "name": "Quần thể Tháp Bà Ponagar Nha Trang",
+    "province": "Khánh Hòa",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "fansipan-sapa",
+    "name": "Đỉnh Fansipan - Mái Nhà Đông Dương & Thị Trấn Sapa",
+    "province": "Lào Cai",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "cau-vang-bana-hills",
+    "name": "Quần thể Du lịch Bà Nà Hills & Biểu tượng Cầu Vàng",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "cho-ben-thanh",
+    "name": "Chợ Bến Thành - Biểu Tượng Văn Hóa Sài Gòn",
+    "province": "TP. Hồ Chí Minh",
+    "imageUrl": "https://images.unsplash.com/photo-1565035010268-a3816f98589a?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "thac-ban-gioc",
+    "name": "Thác Bản Giốc - Kiệt Tác Thiên Nhiên Đông Bắc",
+    "province": "Cao Bằng",
+    "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "nui-ba-den",
+    "name": "Quần thể Tâm linh Núi Bà Đen - Nóc Nhà Nam Bộ",
+    "province": "Tây Ninh",
+    "imageUrl": "https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "chua-huong",
+    "name": "Quần thể Danh thắng Hương Sơn (Chùa Hương)",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1508804185872-d7badad00f7d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "dia-dao-cu-chi",
+    "name": "Khu Di tích Lịch sử Địa đạo Củ Chi",
+    "province": "TP. Hồ Chí Minh",
+    "imageUrl": "https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "mui-ne-poshanu",
+    "name": "Danh thắng Mũi Né & Tháp Chăm Poshanu",
+    "province": "Bình Thuận",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "phu-quoc-dinh-cau",
+    "name": "Đảo Ngọc Phú Quốc & Di tích Dinh Cậu",
+    "province": "Kiên Giang",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "nha-tu-son-la",
+    "name": "Di tích Lịch sử Quốc gia Đặc biệt Nhà tù Sơn La",
+    "province": "Sơn La",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "moc-chau-son-la",
+    "name": "Khu Du lịch Quốc gia Cao nguyên Mộc Châu & Đồi Chè Trái Tim",
+    "province": "Sơn La",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-hue-1",
+    "name": "Nhà hàng Bếp Khói Cố Đô (Đặc sản Huế)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-hue-2",
+    "name": "Cà Phê Muối Xứ Huế (Quán Gốc Nguyễn Huệ)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-hue-3",
+    "name": "Không gian Ca Huế & Thưởng trà Sông Hương",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-hn-1",
+    "name": "Phở Gia Truyền Bát Đàn",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-hn-2",
+    "name": "Cà Phê Giảng (Cà Phê Trứng Nguyên Bản từ 1946)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-ha-1",
+    "name": "Bánh Mì Phượng Hội An",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-ms-1",
+    "name": "Bê Thui Cầu Mống Mười Hiển (Đặc Sản Quảng Nam)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-ms-2",
+    "name": "Mì Quảng Gà Ta & Bánh Đập Duy Xuyên",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-sg-1",
+    "name": "Nhà hàng Cơm Niêu Sài Gòn",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-sg-2",
+    "name": "Cà Phê Đỗ Phủ - Cơm Tấm Đại Hàn (Hầm Vũ Khí Biệt Động)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "place-nb-1",
+    "name": "Nhà hàng Thăng Long (Dê Núi Cơm Cháy Ninh Bình)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "gom-bat-trang",
+    "name": "Làng Gốm Bát Tràng",
+    "province": "Hà Nội",
+    "imageUrl": "gom-bat-trang-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "tranh-dong-ho",
+    "name": "Làng Tranh Dân Gian Đông Hồ",
+    "province": "Bắc Ninh",
+    "imageUrl": "tranh-dong-ho-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "non-la-tay-ho",
+    "name": "Làng Nón Lá Tây Hồ (Nón Bài Thơ Xứ Huế)",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "non-la-tay-ho-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "lua-van-phuc",
+    "name": "Làng Lụa Vạn Phúc (Hà Đông)",
+    "province": "Hà Nội",
+    "imageUrl": "lua-van-phuc-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "nha-nhac-cung-dinh",
+    "name": "Nhã Nhạc Cung Đình Huế",
+    "province": "",
+    "imageUrl": "nha-nhac-cung-dinh-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "quan-ho-bac-ninh",
+    "name": "Dân Ca Quan Họ Bắc Ninh",
+    "province": "",
+    "imageUrl": "quan-ho-bac-ninh-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "don-ca-tai-tu",
+    "name": "Đờn Ca Tài Tử Nam Bộ",
+    "province": "",
+    "imageUrl": "don-ca-tai-tu-ai-image"
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "ngo-mon-hue",
+    "name": "Cổng Ngọ Môn - Đại Nội Cung Đình Huế",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "chua-cau-hoi-an",
+    "name": "Chùa Cầu (Lai Viễn Kiều)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "dien-kinh-thien-ai",
+    "name": "Phục dựng 3D Điện Kính Thiên (Hoàng Thành Thăng Long)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamHeritageData.ts",
+    "id": "dinh-doc-lap-past-present",
+    "name": "Dinh Độc Lập (Hội trường Thống Nhất)",
+    "province": "",
+    "imageUrl": ""
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-bana-hills-resort",
+    "name": "Quần Thể Du Lịch Sun World Ba Na Hills",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cau-vang-bana",
+    "name": "Cầu Vàng Bà Nà Hills (Golden Bridge)",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-lang-phap-bana",
+    "name": "Làng Pháp & Hầm Rượu Debay Bà Nà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-ban-dao-son-tra",
+    "name": "Khu Bảo Tồn Thiên Nhiên Bán Đảo Sơn Trà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-chua-linh-ung-son-tra",
+    "name": "Chùa Linh Ứng Bãi Bụt & Tượng Phật Quan Âm 67m",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Lady_Buddha_Da_Nang_2019.jpg/1280px-Lady_Buddha_Da_Nang_2019.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-dinh-ban-co",
+    "name": "Đỉnh Bàn Cờ Sơn Trà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cay-da-ngan-nam",
+    "name": "Cây Đa Di Sản Ngàn Năm Sơn Trà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-hai-dang-tien-sa",
+    "name": "Hải Đăng Tiên Sa Sơn Trà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-nha-trung-bay-hoang-sa",
+    "name": "Nhà Trưng Bày Hoàng Sa",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-ngu-hanh-son-complex",
+    "name": "Quần Thể Danh Thắng Di Tích Quốc Gia Đặc Biệt Ngũ Hành Sơn",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ngu_Hanh_Son_Da_Nang.jpg/1280px-Ngu_Hanh_Son_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-dong-huyen-khong",
+    "name": "Động Huyền Không (Ngũ Hành Sơn)",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Dong_Huyen_Khong_Ngu_Hanh_Son.jpg/1280px-Dong_Huyen_Khong_Ngu_Hanh_Son.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-chua-tam-thai",
+    "name": "Chùa Tam Thai (Ngũ Hành Sơn)",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Chua_Tam_Thai_Ngu_Hanh_Son.jpg/1280px-Chua_Tam_Thai_Ngu_Hanh_Son.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-lang-da-non-nuoc",
+    "name": "Làng Đá Mỹ Nghệ Non Nước",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-bai-bien-my-khe",
+    "name": "Bãi Biển Mỹ Khê Đà Nẵng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-bai-bien-non-nuoc",
+    "name": "Bãi Biển Non Nước",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-ran-nam-o",
+    "name": "Rạn Nam Ô & Làng Nghề Nước Mắm Nam Ô",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-bao-tang-cham",
+    "name": "Bảo Tàng Điêu Khắc Chăm Đà Nẵng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cham_Museum_Da_Nang.jpg/1280px-Cham_Museum_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-thanh-dien-hai",
+    "name": "Di Tích Quốc Gia Đặc Biệt Thành Điện Hải & Bảo Tàng Đà Nẵng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Thanh_Dien_Hai_Da_Nang.jpg/1280px-Thanh_Dien_Hai_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-bao-tang-my-thuat",
+    "name": "Bảo Tàng Mỹ Thuật Đà Nẵng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bao_tang_My_thuat_Da_Nang.jpg/1280px-Bao_tang_My_thuat_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-nha-tho-chinh-toa",
+    "name": "Nhà Thờ Chính Tòa Đà Nẵng (Nhà Thờ Con Gà)",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Da_Nang_Cathedral_2019.jpg/1280px-Da_Nang_Cathedral_2019.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cau-rong-song-han",
+    "name": "Cầu Rồng Sông Hàn",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cau-song-han-quay",
+    "name": "Cầu Quay Sông Hàn",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cau-thuan-phuoc",
+    "name": "Cầu Thuận Phước",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cau-tinh-yeu-ca-chep",
+    "name": "Cầu Tình Yêu & Tượng Cá Chép Hóa Rồng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cong-vien-apec",
+    "name": "Công Viên APEC & Mái Vòm Cánh Diều Bay Cao",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cho-han",
+    "name": "Chợ Hàn Đà Nẵng",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cho_Han_Da_Nang.jpg/1280px-Cho_Han_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cho-con",
+    "name": "Chợ Cồn (Thiên Đường Ẩm Thực Đà Nẵng)",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cho_Con_Da_Nang.jpg/1280px-Cho_Con_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-cho-dem-helio",
+    "name": "Chợ Đêm Helio & Tổ Hợp Giải Trí Helio Center",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Helio_Night_Market_Da_Nang.jpg/1280px-Helio_Night_Market_Da_Nang.jpg"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-kdl-nui-than-tai",
+    "name": "Công Viên Suối Khoáng Nóng Núi Thần Tài",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-kdl-hoa-phu-thanh",
+    "name": "Khu Du Lịch Sinh Thái Trượt Thác Hòa Phú Thành",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-dinh-lang-tuy-loan",
+    "name": "Đình Làng Cổ Túy Loan & Làng Bánh Tráng Túy Loan",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-lang-chieu-cam-ne",
+    "name": "Làng Dệt Chiếu Cẩm Nê",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "dn-hai-van-quan",
+    "name": "Di Tích Quốc Gia Hải Vân Quan (",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "qn-pho-co-hoi-an-unesco",
+    "name": "Đô Thị Cổ Hội An (Di Sản Văn Hóa Thế Giới UNESCO)",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "qn-thanh-dia-my-son",
+    "name": "Khu Đền Tháp Thánh Địa Mỹ Sơn (UNESCO)",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "qn-cu-lao-cham-biosphere",
+    "name": "Khu Dự Trữ Sinh Quyển Thế Giới Cù Lao Chàm",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamTourismPlaces.ts",
+    "id": "qn-lang-gom-thanh-ha",
+    "name": "Làng Gốm Truyền Thống Thanh Hà & Công Viên Đất Nung",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "hoang-thanh-thang-long",
+    "name": "Hoàng Thành Thăng Long - Trung Tâm Quyền Lực Ngàn Năm",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "ho-hoan-kiem-den-ngoc-son",
+    "name": "Hồ Hoàn Kiếm, Tháp Rùa & Quần Thể Đền Ngọc Sơn",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-mot-cot-hanoi",
+    "name": "Chùa Một Cột (Diên Hựu Tự) - Bông Sen Ngàn Năm Giữa Lòng Thủ Đô",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-tu-hoa-lo",
+    "name": "Di Tích Lịch Sử Nhà Tù Hỏa Lò (Maison Centrale)",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cho-dong-xuan-hanoi",
+    "name": "Chợ Đồng Xuân - Trái Tim Giao Thương Ngàn Năm Phố Cổ",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "lang-gom-bat-trang",
+    "name": "Làng Nghề Gốm Sứ Bát Tràng Bảy Trăm Năm Tuổi",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "lang-co-duong-lam",
+    "name": "Làng Cổ Đường Lâm - Miền Đất Hai Vua",
+    "province": "Hà Nội",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "danh-thang-yen-tu",
+    "name": "Quần Thể Di Tích & Danh Thắng Yên Tử - Đất Tổ Thiền Phái Trúc Lâm",
+    "province": "Quảng Ninh",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "bao-tang-quang-ninh",
+    "name": "Bảo Tàng & Thư Viện Quảng Ninh - Viên Ngọc Đen Bên Bờ Vịnh",
+    "province": "Quảng Ninh",
+    "imageUrl": "https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "dao-co-to-quang-ninh",
+    "name": "Quần Đảo Cô Tô & Bãi Đá Móng Rồng - Hòn Ngọc Cực Đông Bắc",
+    "province": "Quảng Ninh",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-tam-chuc-ha-nam",
+    "name": "Quần Thể Danh Thắng Tâm Linh Tam Chúc - Ngôi Chùa Lớn Nhất Thế Giới",
+    "province": "Ninh Bình (Hà Nam)",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "den-tran-nam-dinh",
+    "name": "Khu Di Tích Lịch Sử Đền Trần & Lễ Khai Ấn Đầu Xuân",
+    "province": "Ninh Bình (Nam Định)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-tho-da-phat-diem",
+    "name": "Quần Thể Nhà Thờ Đá Phát Diệm - Tuyệt Tác Giao Thoa Đông Tây",
+    "province": "Ninh Bình",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "dinh-fansipan-sapa",
+    "name": "Đỉnh Fansipan - Nóc Nhà Đông Dương (3.143m)",
+    "province": "Lào Cai (Hợp nhất Lào Cai & Yên Bái)",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "ruong-bac-thang-mu-cang-chai",
+    "name": "Danh Thắng Ruộng Bậc Thang Mù Cang Chải - Kỳ Công Sóng Lúa Trời",
+    "province": "Lào Cai (Yên Bái)",
+    "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cho-phien-bac-ha",
+    "name": "Chợ Phiên Bắc Hà - Sắc Màu Văn Hóa Vùng Cao Lớn Nhất Tây Bắc",
+    "province": "Lào Cai",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cot-co-lung-cu",
+    "name": "Cột Cờ Quốc Gia Lũng Cú - Điểm Cực Bắc Thiêng Liêng Tổ Quốc",
+    "province": "Tuyên Quang (Hà Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "deo-ma-pi-leng-nho-que",
+    "name": "Đèo Mã Pí Lèng & Hẻm Vực Tu Sản - Dòng Sông Nho Quế Xanh Ngọc Bích",
+    "province": "Tuyên Quang (Hà Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "khu-di-tich-tan-trao-tuyen-quang",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Tân Trào - Thủ Đô Kháng Chiến",
+    "province": "Tuyên Quang",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "den-hung-phu-tho",
+    "name": "Khu Di Tích Lịch Sử Đền Hùng - Cội Nguồn Dân Tộc Việt Nam",
+    "province": "Phú Thọ (Hợp nhất Phú Thọ, Vĩnh Phúc & Hòa Bình)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "thung-lung-mai-chau-hoa-binh",
+    "name": "Thung Lũng Mai Châu & Bản Lác - Không Gian Văn Hóa Người Thái",
+    "province": "Phú Thọ (Hòa Bình)",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-but-thap-bac-ninh",
+    "name": "Chùa Bút Tháp (Ninh Phúc Tự) - Tuyệt Tác Điêu Khắc Phật Bà Nghìn Mắt Nghìn Tay",
+    "province": "Bắc Ninh (Hợp nhất Bắc Ninh & Bắc Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-vinh-nghiem-bac-giang",
+    "name": "Chùa Vĩnh Nghiêm (Chùa Đức La) - Trường Đại Học Phật Giáo Đầu Tiên & Mộc Bản UNESCO",
+    "province": "Bắc Ninh (Bắc Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "ho-ba-be-bac-kan",
+    "name": "Hồ Ba Bể - Viên Ngọc Xanh Giữa Đại Ngàn Việt Bắc",
+    "province": "Thái Nguyên (Bắc Kạn)",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "khu-di-tich-kim-lien-nam-dan",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Kim Liên - Quê Hương Bác Hồ",
+    "province": "Nghệ An",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nga-ba-dong-loc-ha-tinh",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Ngã Ba Đồng Lộc - Khúc Tráng Ca Bất Tử",
+    "province": "Hà Tĩnh",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "hang-son-doong-quang-binh",
+    "name": "Hang Sơn Đoòng - Kỳ Quan Hang Động Lớn Nhất Trái Đất",
+    "province": "Quảng Trị (Quảng Bình)",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "thanh-co-quang-tri",
+    "name": "Di Tích Quốc Gia Đặc Biệt Thành Cổ Quảng Trị - Đài Tưởng Niệm Máu Và Hoa",
+    "province": "Quảng Trị",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "doi-bo-hien-luong-ben-hai",
+    "name": "Di Tích Đôi Bờ Hiền Lương - Sông Bến Hải & Vĩ Tuyến 17",
+    "province": "Quảng Trị",
+    "imageUrl": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-thien-mu-hue",
+    "name": "Chùa Thiên Mụ (Linh Mụ Tự) & Tháp Phước Duyên Bên Bờ Sông Hương",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "lang-khai-dinh-hue",
+    "name": "Lăng Khải Định (Ứng Lăng) - Tuyệt Tác Khảm Sành Sứ Nghệ Thuật Á Âu",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cho-dong-ba-hue",
+    "name": "Chợ Đông Ba - Hương Vị & Hồn Cốt Chợ Đời Cố Đô",
+    "province": "Thừa Thiên Huế",
+    "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cau-rong-da-nang",
+    "name": "Cầu Rồng Sông Hàn - Biểu Tượng Vươn Mình Ra Biển Lớn",
+    "province": "Đà Nẵng (Hợp nhất Đà Nẵng & Quảng Nam)",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-linh-ung-son-tra",
+    "name": "Chùa Linh Ứng Bãi Bụt & Tượng Phật Bà Quan Âm 67m Bán Đảo Sơn Trà",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "ngu-hanh-son-da-nang",
+    "name": "Quần Thể Danh Thắng Danh Tiếng Ngũ Hành Sơn & Động Huyền Không",
+    "province": "Đà Nẵng",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-cau-hoi-an",
+    "name": "Chùa Cầu Hội An (Lai Viễn Kiều) - Cây Cầu Bốn Trăm Năm Biểu Tượng Giao Thoa",
+    "province": "Quảng Nam",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "thap-ba-ponagar-nha-trang",
+    "name": "Quần Thể Đền Tháp Chăm Cổ Ponagar - Nơi Thờ Mẹ Xứ Sở Thiên Y A Na",
+    "province": "Khánh Hòa (Hợp nhất Khánh Hòa & Ninh Thuận)",
+    "imageUrl": "https://images.unsplash.com/photo-1578637387939-43c525550085?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "thap-po-klong-garai-ninh-thuan",
+    "name": "Quần Thể Tháp Po Klong Garai - Đỉnh Cao Nghệ Thuật Kiến Trúc Tháp Chăm",
+    "province": "Khánh Hòa (Ninh Thuận)",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "dinh-iii-bao-dai-da-lat",
+    "name": "Biệt Điện Dinh III Bảo Đại - Dinh Thự Mùa Hè Của Vị Hoàng Đế Cuối Cùng",
+    "province": "Lâm Đồng",
+    "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "thac-datanla-da-lat",
+    "name": "Thác Datanla & Thung Lũng Rừng Nguyên Sinh Đà Lạt",
+    "province": "Lâm Đồng",
+    "imageUrl": "https://images.unsplash.com/photo-1544644181-1484b3fdfc62?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "doi-cat-trang-bau-trang-binh-thuan",
+    "name": "Bàu Trắng & Đồi Cát Trinh Nữ - ",
+    "province": "Lâm Đồng (Bình Thuận)",
+    "imageUrl": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "dinh-doc-lap-tphcm",
+    "name": "Hội Trường Thống Nhất (Dinh Độc Lập) - Dấu Ấn Lịch Sử Thống Nhất Non Sông",
+    "province": "Thành phố Hồ Chí Minh",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-tho-duc-ba-tphcm",
+    "name": "Vương Cung Thánh Đường Đức Bà Sài Gòn & Bưu Điện Trung Tâm",
+    "province": "Thành phố Hồ Chí Minh",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-tu-con-dao-vung-tau",
+    "name": "Khu Di Tích Lịch Sử Quốc Gia Đặc Biệt Nhà Tù Côn Đảo - ",
+    "province": "Thành phố Hồ Chí Minh (Bà Rịa - Vũng Tàu)",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "tuong-chua-kito-vung-tau",
+    "name": "Tượng Chúa Kytô Vua Núi Nhỏ Vũng Tàu - Tượng Chúa Lớn Nhất Châu Á",
+    "province": "Thành phố Hồ Chí Minh (Bà Rịa - Vũng Tàu)",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "toa-thanh-cao-dai-tay-ninh",
+    "name": "Tòa Thánh Cao Đài Tây Ninh - Trung Tâm Tôn Giáo Dung Hợp Độc Nhất",
+    "province": "Tây Ninh",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "lang-noi-tan-lap-long-an",
+    "name": "Khu Du Lịch Sinh Thái Làng Nổi Tân Lập - Con Đường Xuyên Rừng Tràm Cổ",
+    "province": "Tây Ninh (Long An)",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "cho-noi-cai-rang-can-tho",
+    "name": "Chợ Nổi Cái Răng - Độc Đáo Văn Hóa Thương Hồ Sông Nước Tây Đô",
+    "province": "Cần Thơ (Hợp nhất Cần Thơ, Hậu Giang & Sóc Trăng)",
+    "imageUrl": "https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-doi-soc-trang",
+    "name": "Chùa Dơi (Chùa Mã Tộc / Wat Mahatup) - Kỳ Bí Ngôi Chùa Khmer Cổ Tích",
+    "province": "Cần Thơ (Sóc Trăng)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-co-binh-thuy-can-tho",
+    "name": "Nhà Cổ Bình Thủy - Tuyệt Tác Dinh Thự Năm Gian Hai Mái Phong Cách Pháp Việt",
+    "province": "Cần Thơ",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "vuon-quoc-gia-tram-chim",
+    "name": "Vườn Quốc Gia Tràm Chim - Giang Sơn Của Sếu Đầu Đỏ",
+    "province": "Đồng Tháp (Hợp nhất Đồng Tháp & Tiền Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "chua-vinh-trang-my-tho",
+    "name": "Chùa Vĩnh Tràng - Đệ Nhất Cổ Tự Tiền Giang Pha Trộn Kiến Trúc Á Âu",
+    "province": "Đồng Tháp (Tiền Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "lang-hoa-sa-dec-dong-thap",
+    "name": "Làng Hoa Sa Đéc - Thủ Phủ Hoa Kiểng Trăm Năm Xứ Nam Bộ",
+    "province": "Đồng Tháp",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "mieu-ba-chua-xu-nui-sam",
+    "name": "Miếu Bà Chúa Xứ Núi Sam Châu Đốc - Trung Tâm Tín Ngưỡng Linh Thiêng Nam Bộ",
+    "province": "An Giang (Hợp nhất An Giang & Kiên Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "rung-tram-tra-su-an-giang",
+    "name": "Khu Rừng Tràm Trà Sư - Bức Tranh Thảm Bèo Xanh Mướt Mùa Nước Nổi",
+    "province": "An Giang",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "quan-dao-nam-du-kien-giang",
+    "name": "Quần Đảo Nam Du - Quần Đảo Thiên Đường Hoang Sơ Biển Tây",
+    "province": "An Giang (Kiên Giang)",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "dat-mui-ca-mau-gps0001",
+    "name": "Khu Du Lịch Quốc Gia Mũi Cà Mau & Cột Mốc Tọa Độ GPS 0001",
+    "province": "Cà Mau (Hợp nhất Cà Mau & Bạc Liêu)",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "nha-cong-tu-bac-lieu",
+    "name": "Dinh Thự Công Tử Bạc Liêu - Giai Thoại Vàng Son Xứ Nam Kỳ",
+    "province": "Cà Mau (Bạc Liêu)",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamExpandedLocations.ts",
+    "id": "khu-luu-niem-cao-van-lau-bac-lieu",
+    "name": "Khu Lưu Niệm Nhạc Sĩ Cao Văn Lầu & Nghệ Thuật Đờn Ca Tài Tử Nam Bộ",
+    "province": "Cà Mau (Bạc Liêu)",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "laichau-deo-o-quy-ho",
+    "name": "Đèo Ô Quy Hồ (Cổng Trời Lai Châu)",
+    "province": "Lai Châu",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "laichau-ban-si-thau-chai",
+    "name": "Bản Du Lịch Cộng Đồng Sì Thâu Chải",
+    "province": "Lai Châu",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "dienbien-bao-tang-chien-thang",
+    "name": "Bảo Tàng Chiến Thắng Lịch Sử Điện Biên Phủ",
+    "province": "Điện Biên",
+    "imageUrl": "https://images.unsplash.com/photo-1583417319070-4a69db38a482?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "dienbien-ham-de-castries",
+    "name": "Sở Chỉ Huy Tập Đoàn Cứ Điểm Điện Biên Phủ (Hầm Đờ Cát)",
+    "province": "Điện Biên",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "langson-dong-tam-thanh-nhi-thanh",
+    "name": "Quần Thể Di Tích Chùa Động Tam Thanh & Động Nhị Thanh",
+    "province": "Lạng Sơn",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "langson-ai-chi-lang",
+    "name": "Khu Di Tích Lịch Sử Ải Chi Lăng",
+    "province": "Lạng Sơn",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "hungyen-pho-hien-chua-chuong",
+    "name": "Quần Thể Di Tích Phố Hiến & Chùa Chuông",
+    "province": "Hưng Yên",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "haiphong-quan-dao-cat-ba",
+    "name": "Quần Đảo Cát Bà & Vịnh Lan Hạ",
+    "province": "Hải Phòng",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "haiphong-bach-dang-giang",
+    "name": "Khu Di Tích Lịch Sử Danh Thắng Bạch Đằng Giang",
+    "province": "Hải Phòng",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "thanhhoa-thanh-nha-ho",
+    "name": "Thành Nhà Hồ (Tây Đô)",
+    "province": "Thanh Hóa",
+    "imageUrl": "https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "thanhhoa-khu-du-lich-pu-luong",
+    "name": "Khu Bảo Tồn Thiên Nhiên Pù Luông",
+    "province": "Thanh Hóa",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "quangngai-dao-ly-son",
+    "name": "Quần Đảo Núi Lửa Lý Sơn (Cù Lao Ré)",
+    "province": "Quảng Ngãi",
+    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "gialai-bien-ho-pleiku",
+    "name": "Biển Hồ T’Nưng Pleiku",
+    "province": "Gia Lai",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "daklak-bao-tang-the-gioi-ca-phe",
+    "name": "Bảo Tàng Thế Giới Cà Phê Buôn Ma Thuột",
+    "province": "Đắk Lắk",
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "daklak-ho-lak-buon-jun",
+    "name": "Hồ Lắk & Buôn Jun Truyền Thống",
+    "province": "Đắk Lắk",
+    "imageUrl": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "dongnai-vuon-quoc-gia-cat-tien",
+    "name": "Vườn Quốc Gia Cát Tiên",
+    "province": "Đồng Nai",
+    "imageUrl": "https://images.unsplash.com/photo-1511497584788-87676104235f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "vinhlong-lang-gom-mang-thit",
+    "name": "Vương Quốc Đỏ Lò Gạch Gốm Mang Thít",
+    "province": "Vĩnh Long",
+    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "file": "vietnamNationwideHeritages.ts",
+    "id": "bentre-con-phung-dao-dua",
+    "name": "Khu Du Lịch Cồn Phụng & Di Tích Đạo Dừa Bến Tre",
+    "province": "Vĩnh Long (Bến Tre)",
+    "imageUrl": "https://images.unsplash.com/photo-1528127269322-539801943592?auto=format&fit=crop&w=1200&q=80"
+  }
+]
